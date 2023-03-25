@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 for file in /mnt/c/Users/Lenovo/Desktop/STUDIA/BIOINFORMATYKA/SEMESTR_V/PRACOWNIA_INFORMATYCZNA/kolos/kolokwium_files/Hsapiens*
 
