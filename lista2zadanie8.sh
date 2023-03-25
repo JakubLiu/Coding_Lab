@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------
+
 mkdir files
 
 wget -i /mnt/c/Users/Lenovo/Desktop/STUDIA/BIOINFORMATYKA/SEMESTR_V/PRACOWNIA_INFORMATYCZNA/rmdup_files.txt -P files/    # pobieranie plików do nowo stworzoneg katalogu
