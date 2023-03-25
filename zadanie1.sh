@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 wget http://theta.edu.pl/wp-content/uploads/2018/10/Neomys_fodiens_A.txt
 wget http://theta.edu.pl/wp-content/uploads/2018/10/Neomys_fodiens_B.txt
