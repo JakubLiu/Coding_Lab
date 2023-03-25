@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dla pliku R_norvegicus000020085003.vcf wyświetl na ekran wszystkie polimorfizmy zlokalizowane:
 
