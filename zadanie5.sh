@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# QBA LIU 2023 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 mkdir rat_zadanie5
 
 wget http://theta.edu.pl/wp-content/uploads/2022/11/R_norvegicus20033325665_labs.vcf_.txt -P rat_zadanie5/
